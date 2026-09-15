@@ -19,3 +19,16 @@ Esto es un archivo de ejemplo que contiene una lista de villanos conocidos en el
 3. Brainiac
 4. Jocker
 5. Harley Quinn
+
+## Notas
+
+plan_del_mal:
+  objetivo: "Dominación total de la ciudad de Metrópolis"
+  fases:
+    - fase_1: "Infiltración en los servidores de la Liga de la Justicia"
+    - fase_2: "Desactivar los sistemas de seguridad perimetral"
+    - fase_3: "Desplegar el ejército de robots en los puntos clave"
+  recursos_requeridos:
+    - "Criptonita sintética"
+    - "Generadores de pulso electromagnético (EMP)"
+  estado: "En progreso"

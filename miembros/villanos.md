@@ -17,3 +17,5 @@ Esto es un archivo de ejemplo que contiene una lista de villanos conocidos en el
 1. Lex Luthor
 2. Doomsday
 3. Brainiac
+4. Jocker
+5. Harley Quinn

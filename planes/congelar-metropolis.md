@@ -13,3 +13,7 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preser
 ## congear metropolis
 
 Desde el menú: Ve a Settings > Appearance > Tabs (Ajustes > Apariencia > Pestañas) y desmarca la opción Use vertical tab layout (Usar diseño de pestañas verticales). Esto devolverá las pestañas al formato horizontal clásico superior o las ocultará si solo tienes una sesión activa
+
+4. Manipular el clima global para causar desastres naturales a gran escala, como huracanes, terremotos y tsunamis.
+5. Controlar los recursos esenciales como el agua y los alimentos, creando escasez y caos en la población mundial.
+6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.

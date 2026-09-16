@@ -30,6 +30,8 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 README.md      → Documentación principal del repositorio
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 📄 Nuevas misiones.yaml    → Estado global de todas las nuevas misiones
+📄 README.md        → Documentacion principal
+   
 ```
 
 ## El Consejo de Villanos!!

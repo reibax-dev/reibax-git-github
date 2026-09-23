@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/reibax-dev/reibax-git-github)
 ![Issues](https://img.shields.io/github/issues/reibax-dev/reibax-git-github)
 ![Último commit](https://img.shields.io/github/last-commit/reibax-dev/reibax-git-github)
-![Licencia](https://img.shields.io/github/license/reibax-dev/reibax-git-github)
+![Licencia](https://img.shields.io/github/license/reibax-dev/reibax-git-github?cacheSeconds+60)
 
 # 🦹‍♂️ La Legión del Mal
 

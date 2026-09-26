@@ -19,7 +19,7 @@
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
-## Estructura de la organización!!
+## Estructura de la organización !!
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
@@ -29,9 +29,12 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 README.md      → Documentación principal del repositorio
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
+📄 Nuevas misiones.yaml    → Estado global de todas las nuevas misiones
+📄 README.md        → Documentacion principal
+   
 ```
 
-## El Consejo de Villanos!!
+## El Consejo de Villanos !!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
@@ -87,3 +90,7 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 - **Telegram:** [@LegionDelMal](https://t.me/legiondelmal)
 - **Twitter:** [@LegionDelMal](https://twitter.com/LegionDelMal)
 - **Sitio web:** [www.legiondelmal.com](https://www.legiondelmal.com)
+
+## Contacto :
+
+Los cursos puros de bases de datos profundizan mucho en teoría de normalización, administración de servidores de datos y creación de consultas muy complejas a mano. Como desarrollador Full Stack moderno, lo que tú necesitas es saber cómo guardar y extraer datos desde tu código de Node o Next.js, y eso ya lo aprenderás sobre la marcha en los proyectos de tus cursos [image_c5WGIq.png].

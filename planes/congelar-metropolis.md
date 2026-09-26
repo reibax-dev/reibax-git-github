@@ -10,3 +10,10 @@ El objetivo es congelar la ciudad de Metrópolis para detener el tiempo y preser
 4. **Monitoreo del proceso**: Supervisa el estado de la ciudad durante el proceso de congelación para asegurarte de que todo funcione correctamente y no haya fallos en el sistema.
 5. **Mantenimiento del estado congelado**: Una vez que la ciudad esté congelada, realiza inspecciones periódicas para garantizar que el estado de congelación se mantenga y que no haya daños en la infraestructura.
 6. **Descongelación controlada**: Cuando sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de tiempo y actividad, asegurándote de que todos los sistemas vuelvan a funcionar correctamente.
+## congear metropolis
+
+Desde el menú: Ve a Settings > Appearance > Tabs (Ajustes > Apariencia > Pestañas) y desmarca la opción Use vertical tab layout (Usar diseño de pestañas verticales). Esto devolverá las pestañas al formato horizontal clásico superior o las ocultará si solo tienes una sesión activa
+
+4. Manipular el clima global para causar desastres naturales a gran escala, como huracanes, terremotos y tsunamis.
+5. Controlar los recursos esenciales como el agua y los alimentos, creando escasez y caos en la población mundial.
+6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.

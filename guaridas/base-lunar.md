@@ -14,13 +14,22 @@ Base secundaria de la Legión. Construida por Brainiac usando nanotecnología y 
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique, su ruta habitual pasa a 200,000 km de distancia.
 
 ## Coordenadas
-
-- Latitud: 0.674° S
-- Longitud: 23.473° E
+- latitud: 0.647 S
+- Longitud: 23.473 E
+- plan_del_mal:
+  objetivo: "Dominación total de la ciudad de Metrópolis"
+  fases:
+    - fase_1: "Infiltración en los servidores de la Liga de la Justicia"
+    - fase_2: "Desactivar los sistemas de seguridad perimetral"
+    - fase_3: "Desplegar el ejército de robots en los puntos clave"
+  recursos_requeridos:
+    - "Criptonita sintética"
+    - "Generadores de pulso electromagnético (EMP)"
+  estado: "En progreso"
 
 ## Instalaciones
 
-- Laboratorio de clonación (preparándose para el Proyecto Krypton v3.0)
+- Laboratorio de clonación (preparándose para el Proyecto Krypton v2.0)
 - Taller de ensamblaje satelital (Glaciar-1 se construye aquí)
 - Módulo de comunicaciones de largo alcance (antena de Brainiac)
 - Invernadero hidropónico (suministro de alimentos limitado)

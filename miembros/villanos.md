@@ -6,6 +6,9 @@
 4. Joker
 5. Harley Quinn
 6. Darkseid
+7. Pinguino
+8. Duende Verde
+9. Magneto
 
 # Notas
 

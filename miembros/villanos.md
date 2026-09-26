@@ -11,16 +11,6 @@
 
 Esto es un archivo de ejemplo que contiene una lista de villanos conocidos en el universo de DC Comics. Cada uno de estos personajes tiene su propia historia y motivaciones que los hacen antagonistas memorables para los héroes.
 
-
-## Villanos
-
-1. Lex Luthor
-2. Doomsday
-3. Brainiac
-4. Jocker
-5. Harley Quinn
-6. Darkside
-
 ## Notas
 
 plan_del_mal:

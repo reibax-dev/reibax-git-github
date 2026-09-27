@@ -25,3 +25,12 @@
   - Lejos de casa
   nota : las mejores peliculas son las primeras
   
+  ## Amores Spiderman
+
+  - Mary Jane Watson
+  - Gwen Stacy
+  - Felicia Hardy
+
+## Rutinas
+
+Patrullar las calles por los tejados

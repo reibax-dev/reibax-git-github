@@ -14,3 +14,11 @@
    - Doctor octopus 
    - Green Goblin
    - Sandman
+  
+  ## Peliculas 
+
+  - Spiderman 1 
+  - Spiderman 2 
+  - Spiderman 3
+  - The amazing spiderman
+  - El poder de Electro

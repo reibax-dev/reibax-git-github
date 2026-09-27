@@ -1,9 +1,10 @@
 ---
-name: Bug report
-about: 'Create a report '
+name: Bug reporte
+about: Ayuda a mejorar
 title: ''
-labels: ''
-assignees: ''
+labels: accessibility, bug, documentation
+assignees: reibax-dev
+type: Bug
 
 ---
 

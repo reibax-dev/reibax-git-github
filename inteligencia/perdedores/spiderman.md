@@ -30,5 +30,4 @@
   - Mary Jane Watson
   - Gwen Stacy
   - Felicia Hardy
-  - Betty Brant 
   

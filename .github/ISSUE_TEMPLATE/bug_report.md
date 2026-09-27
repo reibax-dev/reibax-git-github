@@ -1,10 +1,9 @@
 ---
 name: Bug report
-about: Ayúdanos a mejorar
-title: 'BUG:'
-labels: bug, documentation, duplicate
-assignees: reibax-dev
-type: Bug
+about: 'Create a report '
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

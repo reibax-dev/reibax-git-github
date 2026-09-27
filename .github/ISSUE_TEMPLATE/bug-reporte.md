@@ -2,7 +2,7 @@
 name: Bug reporte
 about: Ayuda a mejorar
 title: ''
-labels: accessibility, bug, documentation
+labels: bug, documentation
 assignees: reibax-dev
 type: Bug
 

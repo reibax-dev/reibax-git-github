@@ -16,5 +16,5 @@ jobs:
               
             - name: Revisa los cambios el consejo
               run: |
-                chmod +x scrips/validar-planes.sh
+                chmod +x scripts/validar-planes.sh
                 ./scripts/validar-planes.sh

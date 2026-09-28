@@ -30,11 +30,11 @@ jobs:
             echo "Habilidades tècnicas"
             node --version           
             git --version           
-            phyton3 --version
+            python3 --version
       
       - name: Reconocimiento del terreno
         run: |
             echo "Reconocimiento del terreno"
-            ls/       
+            ls /       
 
 

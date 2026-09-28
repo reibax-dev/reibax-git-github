@@ -13,3 +13,9 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 # Consejos
 
 Desde el menú: Ve a Settings > Appearance > Tabs (Ajustes > Apariencia > Pestañas) y desmarca la opción Use vertical tab layout (Usar diseño de pestañas verticales). Esto devolverá las pestañas al formato horizontal clásico superior o las ocultará si solo tienes una sesión activa
+
+## Plan de escape
+
+- **Si el clon es descubierto:** activar autodestrucción del clon (se desintegra en 60 segundos)
+- **Si Superman escapa de la celda:** evacuación inmediata de la Fortaleza Prohibida. Magneto y Doctor Doom contienen a Superman mientras el resto escapa.
+- **Si el clon se rebela:** ... Brainiac dice que el chip de control funcionará. Lex Luthor no está tan seguro.

@@ -1,6 +1,8 @@
 name: 🏯 Acceso a la fortaleza del mal
 
-on: push
+# on: push
+on:
+    workflow_dispatch:
 
 jobs:
   acceso-a-la-fortaleza:
@@ -15,3 +17,19 @@ jobs:
             ls -la
             echo ""
             echo "❌ que ostias? no hay nada"
+
+      - name: 'Dr.Strange desbloquea la bòveda'
+        uses: actions/checkout@v4      
+
+      - name: 'Ahora si, vamos a ver los planes'
+        run: |
+            echo "Buscar los archivos e la Legiòn"
+            ls -la
+            echo "✅ Funciona :)"
+            echo ""
+            echo "Planes:"
+            ls planes/
+            echo "Villanos:"
+            ls villanos/
+            echo "Inteligencia:"
+            ls inteligencia/

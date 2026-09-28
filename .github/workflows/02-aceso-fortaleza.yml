@@ -1,0 +1,17 @@
+name: 🏯 Acceso a la fortaleza del mal
+
+on: push
+
+jobs:
+  acceso-a-la-fortaleza:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: El agente llega a la fortaleza
+        run: |
+            echo "Agente ${{ github.actor }} llega a la fortaleza del mal"
+            echo ""
+            echo "Buscar los archivos e la Legiòn"
+            ls -la
+            echo ""
+            echo "❌ que ostias? no hay nada"

@@ -35,11 +35,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Instalar el transmisor de la Legiòn del Mal
+        run: sudo apt-get install -y cowsay
+
       - name: Imprimir inputs
         run: |
-          echo "Inputs: "
+          echo "==========================="
+          echo "    Transmisiòn interceptada     "
+          echo "==========================="
+          acho " "
+          echo "De: ${{ inputs.villano }}"
           echo ""
-          echo "Villano: ${{ inputs.villano }}"
+          echo "Fecha: $(date -u + "%d/%m/%Y - %H:%M UTC")"
+          echo "------- Mensaje --------"
           echo "Nivel: ${{ inputs.prioridad }}"
-          echo "Mensaje: ${{ inputs.mensaje }}"
-      
+          cowsay -f eyes "${{ inputs.mensaje }}"
+          echo ""
+          echo "------${{ inputs.villano }}"
+          echo "..."
+                

@@ -19,6 +19,21 @@ on:
         required: true
         default: "La mision fue un èxito"       
 
+        # cow_character:
+
+      cow_character:
+        description: "Character"
+        required: true
+        type: choice
+        options: 
+          - eyes
+          - ghostbusters
+          - dragon
+          - homer
+          - R2-D2
+
+
+        
       prioridad:
         description: "Nivel de prioridad"
         required: true
@@ -49,7 +64,7 @@ jobs:
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo "------- Mensaje --------"
           echo "Nivel: ${{ inputs.prioridad }}"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cow_character }}" "${{ inputs.mensaje }}"
           echo ""
           echo "------${{ inputs.villano }}"
           echo "..."

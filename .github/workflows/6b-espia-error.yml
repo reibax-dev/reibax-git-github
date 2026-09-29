@@ -30,7 +30,7 @@ jobs:
 
       - name: Escanear fichas de villanos
         run: |
-          echo "🔍 Escaneando fichas de villanos..."
+          echo "🔍 Escaneando fichas de miembros..."
           ls miembros/*.md
           echo "✅ Fichas verificadas."
 
